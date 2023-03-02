@@ -6,3 +6,5 @@
 print ("relay.xiaomi.com")
 print ("login.mioffice.cn")
 print ("b2c.srv")
+print ("api.xiaomi.com")
+print ("youpin.mi.com")
