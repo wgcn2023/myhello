@@ -1,1 +1,4 @@
 mytesthello.wctest
+mytesthello.wctest
+mytesthello.wctest
+mytesthello.wctest11
